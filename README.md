@@ -21,9 +21,9 @@
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 
   <h3>Top Projects</h3>
-  <a href="https://github.com/YerupalleVamsi/offline-llm-reze"><img src="https://img.shields.io/badge/offline--llm--reze-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A full-stack AI assistant that runs entirely offline — voice, OCR, and a real-time animated 3D avatar.<br>
-  <a href="https://github.com/YerupalleVamsi/Perplexity_Clone"><img src="https://img.shields.io/badge/Perplexity%20Clone-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; An AI search engine that pairs real-time web search with an LLM for cited, structured answers.<br>
-  <a href="https://github.com/YerupalleVamsi/Anime-Chatbot"><img src="https://img.shields.io/badge/Anime%20Chatbot-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A RAG-based chatbot with context retrieval, because generic chatbots are boring.<br>
+  <a href="https://github.com/VamsiYerupalle/offline-llm-reze"><img src="https://img.shields.io/badge/offline--llm--reze-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A full-stack AI assistant that runs entirely offline — voice, OCR, and a real-time animated 3D avatar.<br>
+  <a href="https://github.com/VamsiYerupalle/Perplexity_Clone"><img src="https://img.shields.io/badge/Perplexity%20Clone-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; An AI search engine that pairs real-time web search with an LLM for cited, structured answers.<br>
+  <a href="https://github.com/VamsiYerupalle/Anime-Chatbot"><img src="https://img.shields.io/badge/Anime%20Chatbot-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A RAG-based chatbot with context retrieval, because generic chatbots are boring.<br>
  
 
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/YerupalleVamsi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/VamsiYerupalle"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/yerupalle-vamsi"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
